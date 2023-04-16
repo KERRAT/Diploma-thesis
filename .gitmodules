@@ -1,0 +1,3 @@
+[submodule "opencv_text_detection"]
+	path = opencv_text_detection
+	url = https://github.com/KERRAT/opencv-text-detection
