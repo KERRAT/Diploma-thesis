@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../UkrainianOCR"
+		},
+		{
+			"path": "../OCR in Python Tutorials 02.02"
+		}
+	],
+	"settings": {}
+}
