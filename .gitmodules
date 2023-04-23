@@ -1,3 +1,6 @@
 [submodule "opencv_text_detection"]
 	path = opencv_text_detection
 	url = https://github.com/KERRAT/opencv-text-detection
+[submodule "UkrainianOCR"]
+	path = UkrainianOCR
+	url = https://github.com/KERRAT/UkrainianOCR
