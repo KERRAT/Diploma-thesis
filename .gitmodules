@@ -4,3 +4,6 @@
 [submodule "UkrainianOCR"]
 	path = UkrainianOCR
 	url = https://github.com/KERRAT/UkrainianOCR
+[submodule "DeslantImg"]
+	path = DeslantImg
+	url = https://github.com/githubharald/DeslantImg
