@@ -160,7 +160,7 @@ def extract_letters(word_image, img_size):
 
     return letters
 
-def recognize_letter(letter_image, model, attempts=3, min_probability=0.5):
+def recognize_letter(letter_image, model, attempts=3, min_probability=0.2):
     letters = [
         'А','Б','В','Г','Ґ','Д','Е','Є','Ж','З','И','І','Ї','Й','К',
         'Л','М','Н','О','П','Р','С','Т','У','Ф','Х','Ц','Ч','Ш','Щ',
